@@ -1,0 +1,7 @@
+/* Custom tweaks */
+body {
+  scroll-behavior: smooth;
+}
+.hero {
+  min-height: 80vh;
+}
